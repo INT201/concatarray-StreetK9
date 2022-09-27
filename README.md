@@ -1,4 +1,4 @@
-# test-concatArray
+/*# test-concatArray
 
 #### ให้เขียน Function ชื่อ concatArray (array1, array2) เพื่อ return เป็น array ที่ประกอบด้วยสมาชิกทั้งหมดและเรียงลำดับจาก element ใน array1 และตามด้วย element ใน array2
 
@@ -17,3 +17,4 @@
   8. concatArray(null, undefined) return undefined
   9. concatArray(undefined, null) return undefined
   10. concatArray(null, null) return undefined
+*/
